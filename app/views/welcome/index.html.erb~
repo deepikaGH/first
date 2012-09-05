@@ -1,0 +1,4 @@
+
+<h1 font="pink" >Welcome deepika to rails tutorial!!</h1>
+<h2> You got to work very hard </h2>
+<p>Find me in app/views/welcome/index.html.erb</p>
